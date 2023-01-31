@@ -9,6 +9,7 @@ Stuff that has been relevant/interesting at some point of my career.
 
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
+* [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 
 # Academic

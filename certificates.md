@@ -97,12 +97,16 @@ Proc-Type: 4,ENCRYPTED
 -----BEGIN EC PRIVATE KEY-----
 ```
 
-## PGP Private Key
+### PGP Private Key
 
+```
 -----BEGIN PGP PRIVATE KEY BLOCK-----
 -----END PGP PRIVATE KEY BLOCK-----
+```
 
-## PGP Public Key
+### PGP Public Key
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 -----END PGP PUBLIC KEY BLOCK-----
+```
